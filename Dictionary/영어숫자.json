@@ -1,0 +1,294 @@
+[
+  {
+    "code": "FF01",
+    "char": "！"
+  },
+  {
+    "code": "FF02",
+    "char": "＂"
+  },
+  {
+    "code": "FF03",
+    "char": "＃"
+  },
+  {
+    "code": "FF04",
+    "char": "＄"
+  },
+  {
+    "code": "FF06",
+    "char": "＆"
+  },
+  {
+    "code": "FF07",
+    "char": "＇"
+  },
+  {
+    "code": "FF00",
+    "char": "＀"
+  },
+  {
+    "code": "FF0A",
+    "char": "＊"
+  },
+  {
+    "code": "FF0B",
+    "char": "＋"
+  },
+  {
+    "code": "FF0C",
+    "char": "，"
+  },
+  {
+    "code": "FF0D",
+    "char": "－"
+  },
+  {
+    "code": "FF0E",
+    "char": "．"
+  },
+  {
+    "code": "FF0F",
+    "char": "／"
+  },
+  {
+    "code": "FF20",
+    "char": "＠"
+  },
+  {
+    "code": "FF21",
+    "char": "Ａ"
+  },
+  {
+    "code": "FF22",
+    "char": "Ｂ"
+  },
+  {
+    "code": "FF23",
+    "char": "Ｃ"
+  },
+  {
+    "code": "FF24",
+    "char": "Ｄ"
+  },
+  {
+    "code": "FF25",
+    "char": "Ｅ"
+  },
+  {
+    "code": "FF26",
+    "char": "Ｆ"
+  },
+  {
+    "code": "FF27",
+    "char": "Ｇ"
+  },
+  {
+    "code": "FF23",
+    "char": "Ｃ"
+  },
+  {
+    "code": "FF29",
+    "char": "Ｉ"
+  },
+  {
+    "code": "FF2A",
+    "char": "Ｊ"
+  },
+  {
+    "code": "FF2B",
+    "char": "Ｋ"
+  },
+  {
+    "code": "FF2C",
+    "char": "Ｌ"
+  },
+  {
+    "code": "FF2D",
+    "char": "Ｍ"
+  },
+  {
+    "code": "FF2E",
+    "char": "Ｎ"
+  },
+  {
+    "code": "FF2F",
+    "char": "Ｏ"
+  },
+  {
+    "code": "FF30",
+    "char": "Ｐ"
+  },
+  {
+    "code": "FF31",
+    "char": "Ｑ"
+  },
+  {
+    "code": "FF32",
+    "char": "Ｒ"
+  },
+  {
+    "code": "FF33",
+    "char": "Ｓ"
+  },
+  {
+    "code": "FF34",
+    "char": "Ｔ"
+  },
+  {
+    "code": "FF35",
+    "char": "Ｕ"
+  },
+  {
+    "code": "FF36",
+    "char": "Ｖ"
+  },
+  {
+    "code": "FF37",
+    "char": "Ｗ"
+  },
+  {
+    "code": "FF33",
+    "char": "Ｓ"
+  },
+  {
+    "code": "FF39",
+    "char": "Ｙ"
+  },
+  {
+    "code": "FF3A",
+    "char": "Ｚ"
+  },
+  {
+    "code": "FF3B",
+    "char": "［"
+  },
+  {
+    "code": "FFE6",
+    "char": "￦"
+  },
+  {
+    "code": "FF3D",
+    "char": "］"
+  },
+  {
+    "code": "FF3E",
+    "char": "＾"
+  },
+  {
+    "code": "FF3F",
+    "char": "＿"
+  },
+  {
+    "code": "FF40",
+    "char": "｀"
+  },
+  {
+    "code": "FF42",
+    "char": "ｂ"
+  },
+  {
+    "code": "FF43",
+    "char": "ｃ"
+  },
+  {
+    "code": "FF44",
+    "char": "ｄ"
+  },
+  {
+    "code": "FF45",
+    "char": "ｅ"
+  },
+  {
+    "code": "FF46",
+    "char": "ｆ"
+  },
+  {
+    "code": "FF47",
+    "char": "ｇ"
+  },
+  {
+    "code": "FF48",
+    "char": "ｈ"
+  },
+  {
+    "code": "FF49",
+    "char": "ｉ"
+  },
+  {
+    "code": "FF4A",
+    "char": "ｊ"
+  },
+  {
+    "code": "FF4B",
+    "char": "ｋ"
+  },
+  {
+    "code": "FF4C",
+    "char": "ｌ"
+  },
+  {
+    "code": "FF4D",
+    "char": "ｍ"
+  },
+  {
+    "code": "FF4E",
+    "char": "ｎ"
+  },
+  {
+    "code": "FF50",
+    "char": "ｐ"
+  },
+  {
+    "code": "FF51",
+    "char": "ｑ"
+  },
+  {
+    "code": "FF52",
+    "char": "ｒ"
+  },
+  {
+    "code": "FF53",
+    "char": "ｓ"
+  },
+  {
+    "code": "FF54",
+    "char": "ｔ"
+  },
+  {
+    "code": "FF55",
+    "char": "ｕ"
+  },
+  {
+    "code": "FF56",
+    "char": "ｖ"
+  },
+  {
+    "code": "FF57",
+    "char": "ｗ"
+  },
+  {
+    "code": "FF58",
+    "char": "ｘ"
+  },
+  {
+    "code": "FF59",
+    "char": "ｙ"
+  },
+  {
+    "code": "FF5A",
+    "char": "ｚ"
+  },
+  {
+    "code": "FF5B",
+    "char": "｛"
+  },
+  {
+    "code": "FF5C",
+    "char": "｜"
+  },
+  {
+    "code": "FF5D",
+    "char": "｝"
+  }
+]

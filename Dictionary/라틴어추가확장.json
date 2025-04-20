@@ -1,0 +1,1026 @@
+[
+  {
+    "code": "1E00",
+    "char": "Ḁ"
+  },
+  {
+    "code": "1E01",
+    "char": "ḁ"
+  },
+  {
+    "code": "1E02",
+    "char": "Ḃ"
+  },
+  {
+    "code": "1E03",
+    "char": "ḃ"
+  },
+  {
+    "code": "1E04",
+    "char": "Ḅ"
+  },
+  {
+    "code": "1E05",
+    "char": "ḅ"
+  },
+  {
+    "code": "1E06",
+    "char": "Ḇ"
+  },
+  {
+    "code": "1E07",
+    "char": "ḇ"
+  },
+  {
+    "code": "1E08",
+    "char": "Ḉ"
+  },
+  {
+    "code": "1E09",
+    "char": "ḉ"
+  },
+  {
+    "code": "1E0A",
+    "char": "Ḋ"
+  },
+  {
+    "code": "1E0B",
+    "char": "ḋ"
+  },
+  {
+    "code": "1E0C",
+    "char": "Ḍ"
+  },
+  {
+    "code": "1E0D",
+    "char": "ḍ"
+  },
+  {
+    "code": "1E0E",
+    "char": "Ḏ"
+  },
+  {
+    "code": "1E0F",
+    "char": "ḏ"
+  },
+  {
+    "code": "1E10",
+    "char": "Ḑ"
+  },
+  {
+    "code": "1E11",
+    "char": "ḑ"
+  },
+  {
+    "code": "1E12",
+    "char": "Ḓ"
+  },
+  {
+    "code": "1E13",
+    "char": "ḓ"
+  },
+  {
+    "code": "1E14",
+    "char": "Ḕ"
+  },
+  {
+    "code": "1E15",
+    "char": "ḕ"
+  },
+  {
+    "code": "1E16",
+    "char": "Ḗ"
+  },
+  {
+    "code": "1E17",
+    "char": "ḗ"
+  },
+  {
+    "code": "1E18",
+    "char": "Ḙ"
+  },
+  {
+    "code": "1E19",
+    "char": "ḙ"
+  },
+  {
+    "code": "1E1A",
+    "char": "Ḛ"
+  },
+  {
+    "code": "1E1B",
+    "char": "ḛ"
+  },
+  {
+    "code": "1E1C",
+    "char": "Ḝ"
+  },
+  {
+    "code": "1E1D",
+    "char": "ḝ"
+  },
+  {
+    "code": "1E1E",
+    "char": "Ḟ"
+  },
+  {
+    "code": "1E1F",
+    "char": "ḟ"
+  },
+  {
+    "code": "1E20",
+    "char": "Ḡ"
+  },
+  {
+    "code": "1E21",
+    "char": "ḡ"
+  },
+  {
+    "code": "1E22",
+    "char": "Ḣ"
+  },
+  {
+    "code": "1E23",
+    "char": "ḣ"
+  },
+  {
+    "code": "1E24",
+    "char": "Ḥ"
+  },
+  {
+    "code": "1E25",
+    "char": "ḥ"
+  },
+  {
+    "code": "1E26",
+    "char": "Ḧ"
+  },
+  {
+    "code": "1E27",
+    "char": "ḧ"
+  },
+  {
+    "code": "1E28",
+    "char": "Ḩ"
+  },
+  {
+    "code": "1E29",
+    "char": "ḩ"
+  },
+  {
+    "code": "1E2A",
+    "char": "Ḫ"
+  },
+  {
+    "code": "1E2B",
+    "char": "ḫ"
+  },
+  {
+    "code": "1E2C",
+    "char": "Ḭ"
+  },
+  {
+    "code": "1E2D",
+    "char": "ḭ"
+  },
+  {
+    "code": "1E2E",
+    "char": "Ḯ"
+  },
+  {
+    "code": "1E2F",
+    "char": "ḯ"
+  },
+  {
+    "code": "1E30",
+    "char": "Ḱ"
+  },
+  {
+    "code": "1E31",
+    "char": "ḱ"
+  },
+  {
+    "code": "1E32",
+    "char": "Ḳ"
+  },
+  {
+    "code": "1E33",
+    "char": "ḳ"
+  },
+  {
+    "code": "1E34",
+    "char": "Ḵ"
+  },
+  {
+    "code": "1E35",
+    "char": "ḵ"
+  },
+  {
+    "code": "1E36",
+    "char": "Ḷ"
+  },
+  {
+    "code": "1E37",
+    "char": "ḷ"
+  },
+  {
+    "code": "1E38",
+    "char": "Ḹ"
+  },
+  {
+    "code": "1E39",
+    "char": "ḹ"
+  },
+  {
+    "code": "1E3A",
+    "char": "Ḻ"
+  },
+  {
+    "code": "1E3B",
+    "char": "ḻ"
+  },
+  {
+    "code": "1E3C",
+    "char": "Ḽ"
+  },
+  {
+    "code": "1E3D",
+    "char": "ḽ"
+  },
+  {
+    "code": "1E3E",
+    "char": "Ḿ"
+  },
+  {
+    "code": "1E3F",
+    "char": "ḿ"
+  },
+  {
+    "code": "1E40",
+    "char": "Ṁ"
+  },
+  {
+    "code": "1E41",
+    "char": "ṁ"
+  },
+  {
+    "code": "1E42",
+    "char": "Ṃ"
+  },
+  {
+    "code": "1E43",
+    "char": "ṃ"
+  },
+  {
+    "code": "1E44",
+    "char": "Ṅ"
+  },
+  {
+    "code": "1E45",
+    "char": "ṅ"
+  },
+  {
+    "code": "1E46",
+    "char": "Ṇ"
+  },
+  {
+    "code": "1E47",
+    "char": "ṇ"
+  },
+  {
+    "code": "1E48",
+    "char": "Ṉ"
+  },
+  {
+    "code": "1E49",
+    "char": "ṉ"
+  },
+  {
+    "code": "1E4A",
+    "char": "Ṋ"
+  },
+  {
+    "code": "1E4B",
+    "char": "ṋ"
+  },
+  {
+    "code": "1E4C",
+    "char": "Ṍ"
+  },
+  {
+    "code": "1E4D",
+    "char": "ṍ"
+  },
+  {
+    "code": "1E4E",
+    "char": "Ṏ"
+  },
+  {
+    "code": "1E4F",
+    "char": "ṏ"
+  },
+  {
+    "code": "1E50",
+    "char": "Ṑ"
+  },
+  {
+    "code": "1E51",
+    "char": "ṑ"
+  },
+  {
+    "code": "1E52",
+    "char": "Ṓ"
+  },
+  {
+    "code": "1E53",
+    "char": "ṓ"
+  },
+  {
+    "code": "1E54",
+    "char": "Ṕ"
+  },
+  {
+    "code": "1E55",
+    "char": "ṕ"
+  },
+  {
+    "code": "1E56",
+    "char": "Ṗ"
+  },
+  {
+    "code": "1E57",
+    "char": "ṗ"
+  },
+  {
+    "code": "1E58",
+    "char": "Ṙ"
+  },
+  {
+    "code": "1E59",
+    "char": "ṙ"
+  },
+  {
+    "code": "1E5A",
+    "char": "Ṛ"
+  },
+  {
+    "code": "1E5B",
+    "char": "ṛ"
+  },
+  {
+    "code": "1E5C",
+    "char": "Ṝ"
+  },
+  {
+    "code": "1E5D",
+    "char": "ṝ"
+  },
+  {
+    "code": "1E5E",
+    "char": "Ṟ"
+  },
+  {
+    "code": "1E5F",
+    "char": "ṟ"
+  },
+  {
+    "code": "1E60",
+    "char": "Ṡ"
+  },
+  {
+    "code": "1E61",
+    "char": "ṡ"
+  },
+  {
+    "code": "1E62",
+    "char": "Ṣ"
+  },
+  {
+    "code": "1E63",
+    "char": "ṣ"
+  },
+  {
+    "code": "1E64",
+    "char": "Ṥ"
+  },
+  {
+    "code": "1E65",
+    "char": "ṥ"
+  },
+  {
+    "code": "1E66",
+    "char": "Ṧ"
+  },
+  {
+    "code": "1E67",
+    "char": "ṧ"
+  },
+  {
+    "code": "1E68",
+    "char": "Ṩ"
+  },
+  {
+    "code": "1E69",
+    "char": "ṩ"
+  },
+  {
+    "code": "1E6A",
+    "char": "Ṫ"
+  },
+  {
+    "code": "1E6B",
+    "char": "ṫ"
+  },
+  {
+    "code": "1E6C",
+    "char": "Ṭ"
+  },
+  {
+    "code": "1E6D",
+    "char": "ṭ"
+  },
+  {
+    "code": "1E6E",
+    "char": "Ṯ"
+  },
+  {
+    "code": "1E6F",
+    "char": "ṯ"
+  },
+  {
+    "code": "1E70",
+    "char": "Ṱ"
+  },
+  {
+    "code": "1E71",
+    "char": "ṱ"
+  },
+  {
+    "code": "1E72",
+    "char": "Ṳ"
+  },
+  {
+    "code": "1E73",
+    "char": "ṳ"
+  },
+  {
+    "code": "1E74",
+    "char": "Ṵ"
+  },
+  {
+    "code": "1E75",
+    "char": "ṵ"
+  },
+  {
+    "code": "1E76",
+    "char": "Ṷ"
+  },
+  {
+    "code": "1E77",
+    "char": "ṷ"
+  },
+  {
+    "code": "1E78",
+    "char": "Ṹ"
+  },
+  {
+    "code": "1E79",
+    "char": "ṹ"
+  },
+  {
+    "code": "1E7A",
+    "char": "Ṻ"
+  },
+  {
+    "code": "1E7B",
+    "char": "ṻ"
+  },
+  {
+    "code": "1E7C",
+    "char": "Ṽ"
+  },
+  {
+    "code": "1E7D",
+    "char": "ṽ"
+  },
+  {
+    "code": "1E7E",
+    "char": "Ṿ"
+  },
+  {
+    "code": "1E7F",
+    "char": "ṿ"
+  },
+  {
+    "code": "1E80",
+    "char": "Ẁ"
+  },
+  {
+    "code": "1E81",
+    "char": "ẁ"
+  },
+  {
+    "code": "1E82",
+    "char": "Ẃ"
+  },
+  {
+    "code": "1E83",
+    "char": "ẃ"
+  },
+  {
+    "code": "1E84",
+    "char": "Ẅ"
+  },
+  {
+    "code": "1E85",
+    "char": "ẅ"
+  },
+  {
+    "code": "1E86",
+    "char": "Ẇ"
+  },
+  {
+    "code": "1E87",
+    "char": "ẇ"
+  },
+  {
+    "code": "1E88",
+    "char": "Ẉ"
+  },
+  {
+    "code": "1E89",
+    "char": "ẉ"
+  },
+  {
+    "code": "1E8A",
+    "char": "Ẋ"
+  },
+  {
+    "code": "1E8B",
+    "char": "ẋ"
+  },
+  {
+    "code": "1E8C",
+    "char": "Ẍ"
+  },
+  {
+    "code": "1E8D",
+    "char": "ẍ"
+  },
+  {
+    "code": "1E8E",
+    "char": "Ẏ"
+  },
+  {
+    "code": "1E8F",
+    "char": "ẏ"
+  },
+  {
+    "code": "1E90",
+    "char": "Ẑ"
+  },
+  {
+    "code": "1E91",
+    "char": "ẑ"
+  },
+  {
+    "code": "1E92",
+    "char": "Ẓ"
+  },
+  {
+    "code": "1E93",
+    "char": "ẓ"
+  },
+  {
+    "code": "1E94",
+    "char": "Ẕ"
+  },
+  {
+    "code": "1E95",
+    "char": "ẕ"
+  },
+  {
+    "code": "1E96",
+    "char": "ẖ"
+  },
+  {
+    "code": "1E97",
+    "char": "ẗ"
+  },
+  {
+    "code": "1E98",
+    "char": "ẘ"
+  },
+  {
+    "code": "1E99",
+    "char": "ẙ"
+  },
+  {
+    "code": "1E9A",
+    "char": "ẚ"
+  },
+  {
+    "code": "1E9B",
+    "char": "ẛ"
+  },
+  {
+    "code": "1E9C",
+    "char": "ẜ"
+  },
+  {
+    "code": "1E9D",
+    "char": "ẝ"
+  },
+  {
+    "code": "1E9E",
+    "char": "ẞ"
+  },
+  {
+    "code": "1E9F",
+    "char": "ẟ"
+  },
+  {
+    "code": "1EA0",
+    "char": "Ạ"
+  },
+  {
+    "code": "1EA1",
+    "char": "ạ"
+  },
+  {
+    "code": "1EA2",
+    "char": "Ả"
+  },
+  {
+    "code": "1EA3",
+    "char": "ả"
+  },
+  {
+    "code": "1EA4",
+    "char": "Ấ"
+  },
+  {
+    "code": "1EA5",
+    "char": "ấ"
+  },
+  {
+    "code": "1EA6",
+    "char": "Ầ"
+  },
+  {
+    "code": "1EA7",
+    "char": "ầ"
+  },
+  {
+    "code": "1EA8",
+    "char": "Ẩ"
+  },
+  {
+    "code": "1EA9",
+    "char": "ẩ"
+  },
+  {
+    "code": "1EAA",
+    "char": "Ẫ"
+  },
+  {
+    "code": "1EAB",
+    "char": "ẫ"
+  },
+  {
+    "code": "1EAC",
+    "char": "Ậ"
+  },
+  {
+    "code": "1EAD",
+    "char": "ậ"
+  },
+  {
+    "code": "1EAE",
+    "char": "Ắ"
+  },
+  {
+    "code": "1EAF",
+    "char": "ắ"
+  },
+  {
+    "code": "1EB0",
+    "char": "Ằ"
+  },
+  {
+    "code": "1EB1",
+    "char": "ằ"
+  },
+  {
+    "code": "1EB2",
+    "char": "Ẳ"
+  },
+  {
+    "code": "1EB3",
+    "char": "ẳ"
+  },
+  {
+    "code": "1EB4",
+    "char": "Ẵ"
+  },
+  {
+    "code": "1EB5",
+    "char": "ẵ"
+  },
+  {
+    "code": "1EB6",
+    "char": "Ặ"
+  },
+  {
+    "code": "1EB7",
+    "char": "ặ"
+  },
+  {
+    "code": "1EB8",
+    "char": "Ẹ"
+  },
+  {
+    "code": "1EB9",
+    "char": "ẹ"
+  },
+  {
+    "code": "1EBA",
+    "char": "Ẻ"
+  },
+  {
+    "code": "1EBB",
+    "char": "ẻ"
+  },
+  {
+    "code": "1EBC",
+    "char": "Ẽ"
+  },
+  {
+    "code": "1EBD",
+    "char": "ẽ"
+  },
+  {
+    "code": "1EBE",
+    "char": "Ế"
+  },
+  {
+    "code": "1EBF",
+    "char": "ế"
+  },
+  {
+    "code": "1EC0",
+    "char": "Ề"
+  },
+  {
+    "code": "1EC1",
+    "char": "ề"
+  },
+  {
+    "code": "1EC2",
+    "char": "Ể"
+  },
+  {
+    "code": "1EC3",
+    "char": "ể"
+  },
+  {
+    "code": "1EC4",
+    "char": "Ễ"
+  },
+  {
+    "code": "1EC5",
+    "char": "ễ"
+  },
+  {
+    "code": "1EC6",
+    "char": "Ệ"
+  },
+  {
+    "code": "1EC7",
+    "char": "ệ"
+  },
+  {
+    "code": "1EC8",
+    "char": "Ỉ"
+  },
+  {
+    "code": "1EC9",
+    "char": "ỉ"
+  },
+  {
+    "code": "1ECA",
+    "char": "Ị"
+  },
+  {
+    "code": "1ECB",
+    "char": "ị"
+  },
+  {
+    "code": "1ECC",
+    "char": "Ọ"
+  },
+  {
+    "code": "1ECD",
+    "char": "ọ"
+  },
+  {
+    "code": "1ECE",
+    "char": "Ỏ"
+  },
+  {
+    "code": "1ECF",
+    "char": "ỏ"
+  },
+  {
+    "code": "1ED0",
+    "char": "Ố"
+  },
+  {
+    "code": "1ED1",
+    "char": "ố"
+  },
+  {
+    "code": "1ED2",
+    "char": "Ồ"
+  },
+  {
+    "code": "1ED3",
+    "char": "ồ"
+  },
+  {
+    "code": "1ED4",
+    "char": "Ổ"
+  },
+  {
+    "code": "1ED5",
+    "char": "ổ"
+  },
+  {
+    "code": "1ED6",
+    "char": "Ỗ"
+  },
+  {
+    "code": "1ED7",
+    "char": "ỗ"
+  },
+  {
+    "code": "1ED8",
+    "char": "Ộ"
+  },
+  {
+    "code": "1ED9",
+    "char": "ộ"
+  },
+  {
+    "code": "1EDA",
+    "char": "Ớ"
+  },
+  {
+    "code": "1EDB",
+    "char": "ớ"
+  },
+  {
+    "code": "1EDC",
+    "char": "Ờ"
+  },
+  {
+    "code": "1EDD",
+    "char": "ờ"
+  },
+  {
+    "code": "1EDE",
+    "char": "Ở"
+  },
+  {
+    "code": "1EDF",
+    "char": "ở"
+  },
+  {
+    "code": "1EE0",
+    "char": "Ỡ"
+  },
+  {
+    "code": "1EE1",
+    "char": "ỡ"
+  },
+  {
+    "code": "1EE2",
+    "char": "Ợ"
+  },
+  {
+    "code": "1EE3",
+    "char": "ợ"
+  },
+  {
+    "code": "1EE4",
+    "char": "Ụ"
+  },
+  {
+    "code": "1EE5",
+    "char": "ụ"
+  },
+  {
+    "code": "1EE6",
+    "char": "Ủ"
+  },
+  {
+    "code": "1EE7",
+    "char": "ủ"
+  },
+  {
+    "code": "1EE8",
+    "char": "Ứ"
+  },
+  {
+    "code": "1EE9",
+    "char": "ứ"
+  },
+  {
+    "code": "1EEA",
+    "char": "Ừ"
+  },
+  {
+    "code": "1EEB",
+    "char": "ừ"
+  },
+  {
+    "code": "1EEC",
+    "char": "Ử"
+  },
+  {
+    "code": "1EED",
+    "char": "ử"
+  },
+  {
+    "code": "1EEE",
+    "char": "Ữ"
+  },
+  {
+    "code": "1EEF",
+    "char": "ữ"
+  },
+  {
+    "code": "1EF0",
+    "char": "Ự"
+  },
+  {
+    "code": "1EF1",
+    "char": "ự"
+  },
+  {
+    "code": "1EF2",
+    "char": "Ỳ"
+  },
+  {
+    "code": "1EF3",
+    "char": "ỳ"
+  },
+  {
+    "code": "1EF4",
+    "char": "Ỵ"
+  },
+  {
+    "code": "1EF5",
+    "char": "ỵ"
+  },
+  {
+    "code": "1EF6",
+    "char": "Ỷ"
+  },
+  {
+    "code": "1EF7",
+    "char": "ỷ"
+  },
+  {
+    "code": "1EF8",
+    "char": "Ỹ"
+  },
+  {
+    "code": "1EF9",
+    "char": "ỹ"
+  },
+  {
+    "code": "1EFA",
+    "char": "Ỻ"
+  },
+  {
+    "code": "1EFB",
+    "char": "ỻ"
+  },
+  {
+    "code": "1EFC",
+    "char": "Ỽ"
+  },
+  {
+    "code": "1EFD",
+    "char": "ỽ"
+  },
+  {
+    "code": "1EFE",
+    "char": "Ỿ"
+  },
+  {
+    "code": "1EFF",
+    "char": "ỿ"
+  }
+]

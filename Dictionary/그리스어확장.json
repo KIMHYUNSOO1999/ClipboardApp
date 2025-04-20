@@ -1,0 +1,1026 @@
+[
+  {
+    "code": "1F00",
+    "char": "ἀ"
+  },
+  {
+    "code": "1F01",
+    "char": "ἁ"
+  },
+  {
+    "code": "1F02",
+    "char": "ἂ"
+  },
+  {
+    "code": "1F03",
+    "char": "ἃ"
+  },
+  {
+    "code": "1F04",
+    "char": "ἄ"
+  },
+  {
+    "code": "1F05",
+    "char": "ἅ"
+  },
+  {
+    "code": "1F06",
+    "char": "ἆ"
+  },
+  {
+    "code": "1F07",
+    "char": "ἇ"
+  },
+  {
+    "code": "1F08",
+    "char": "Ἀ"
+  },
+  {
+    "code": "1F09",
+    "char": "Ἁ"
+  },
+  {
+    "code": "1F0A",
+    "char": "Ἂ"
+  },
+  {
+    "code": "1F0B",
+    "char": "Ἃ"
+  },
+  {
+    "code": "1F0C",
+    "char": "Ἄ"
+  },
+  {
+    "code": "1F0D",
+    "char": "Ἅ"
+  },
+  {
+    "code": "1F0E",
+    "char": "Ἆ"
+  },
+  {
+    "code": "1F0F",
+    "char": "Ἇ"
+  },
+  {
+    "code": "1F10",
+    "char": "ἐ"
+  },
+  {
+    "code": "1F11",
+    "char": "ἑ"
+  },
+  {
+    "code": "1F12",
+    "char": "ἒ"
+  },
+  {
+    "code": "1F13",
+    "char": "ἓ"
+  },
+  {
+    "code": "1F14",
+    "char": "ἔ"
+  },
+  {
+    "code": "1F15",
+    "char": "ἕ"
+  },
+  {
+    "code": "1F16",
+    "char": "἖"
+  },
+  {
+    "code": "1F17",
+    "char": "἗"
+  },
+  {
+    "code": "1F18",
+    "char": "Ἐ"
+  },
+  {
+    "code": "1F19",
+    "char": "Ἑ"
+  },
+  {
+    "code": "1F1A",
+    "char": "Ἒ"
+  },
+  {
+    "code": "1F1B",
+    "char": "Ἓ"
+  },
+  {
+    "code": "1F1C",
+    "char": "Ἔ"
+  },
+  {
+    "code": "1F1D",
+    "char": "Ἕ"
+  },
+  {
+    "code": "1F1E",
+    "char": "἞"
+  },
+  {
+    "code": "1F1F",
+    "char": "἟"
+  },
+  {
+    "code": "1F20",
+    "char": "ἠ"
+  },
+  {
+    "code": "1F21",
+    "char": "ἡ"
+  },
+  {
+    "code": "1F22",
+    "char": "ἢ"
+  },
+  {
+    "code": "1F23",
+    "char": "ἣ"
+  },
+  {
+    "code": "1F24",
+    "char": "ἤ"
+  },
+  {
+    "code": "1F25",
+    "char": "ἥ"
+  },
+  {
+    "code": "1F26",
+    "char": "ἦ"
+  },
+  {
+    "code": "1F27",
+    "char": "ἧ"
+  },
+  {
+    "code": "1F28",
+    "char": "Ἠ"
+  },
+  {
+    "code": "1F29",
+    "char": "Ἡ"
+  },
+  {
+    "code": "1F2A",
+    "char": "Ἢ"
+  },
+  {
+    "code": "1F2B",
+    "char": "Ἣ"
+  },
+  {
+    "code": "1F2C",
+    "char": "Ἤ"
+  },
+  {
+    "code": "1F2D",
+    "char": "Ἥ"
+  },
+  {
+    "code": "1F2E",
+    "char": "Ἦ"
+  },
+  {
+    "code": "1F2F",
+    "char": "Ἧ"
+  },
+  {
+    "code": "1F30",
+    "char": "ἰ"
+  },
+  {
+    "code": "1F31",
+    "char": "ἱ"
+  },
+  {
+    "code": "1F32",
+    "char": "ἲ"
+  },
+  {
+    "code": "1F33",
+    "char": "ἳ"
+  },
+  {
+    "code": "1F34",
+    "char": "ἴ"
+  },
+  {
+    "code": "1F35",
+    "char": "ἵ"
+  },
+  {
+    "code": "1F36",
+    "char": "ἶ"
+  },
+  {
+    "code": "1F37",
+    "char": "ἷ"
+  },
+  {
+    "code": "1F38",
+    "char": "Ἰ"
+  },
+  {
+    "code": "1F39",
+    "char": "Ἱ"
+  },
+  {
+    "code": "1F3A",
+    "char": "Ἲ"
+  },
+  {
+    "code": "1F3B",
+    "char": "Ἳ"
+  },
+  {
+    "code": "1F3C",
+    "char": "Ἴ"
+  },
+  {
+    "code": "1F3D",
+    "char": "Ἵ"
+  },
+  {
+    "code": "1F3E",
+    "char": "Ἶ"
+  },
+  {
+    "code": "1F3F",
+    "char": "Ἷ"
+  },
+  {
+    "code": "1F40",
+    "char": "ὀ"
+  },
+  {
+    "code": "1F41",
+    "char": "ὁ"
+  },
+  {
+    "code": "1F42",
+    "char": "ὂ"
+  },
+  {
+    "code": "1F43",
+    "char": "ὃ"
+  },
+  {
+    "code": "1F44",
+    "char": "ὄ"
+  },
+  {
+    "code": "1F45",
+    "char": "ὅ"
+  },
+  {
+    "code": "1F46",
+    "char": "὆"
+  },
+  {
+    "code": "1F47",
+    "char": "὇"
+  },
+  {
+    "code": "1F48",
+    "char": "Ὀ"
+  },
+  {
+    "code": "1F49",
+    "char": "Ὁ"
+  },
+  {
+    "code": "1F4A",
+    "char": "Ὂ"
+  },
+  {
+    "code": "1F4B",
+    "char": "Ὃ"
+  },
+  {
+    "code": "1F4C",
+    "char": "Ὄ"
+  },
+  {
+    "code": "1F4D",
+    "char": "Ὅ"
+  },
+  {
+    "code": "1F4E",
+    "char": "὎"
+  },
+  {
+    "code": "1F4F",
+    "char": "὏"
+  },
+  {
+    "code": "1F50",
+    "char": "ὐ"
+  },
+  {
+    "code": "1F51",
+    "char": "ὑ"
+  },
+  {
+    "code": "1F52",
+    "char": "ὒ"
+  },
+  {
+    "code": "1F53",
+    "char": "ὓ"
+  },
+  {
+    "code": "1F54",
+    "char": "ὔ"
+  },
+  {
+    "code": "1F55",
+    "char": "ὕ"
+  },
+  {
+    "code": "1F56",
+    "char": "ὖ"
+  },
+  {
+    "code": "1F57",
+    "char": "ὗ"
+  },
+  {
+    "code": "1F58",
+    "char": "὘"
+  },
+  {
+    "code": "1F59",
+    "char": "Ὑ"
+  },
+  {
+    "code": "1F5A",
+    "char": "὚"
+  },
+  {
+    "code": "1F5B",
+    "char": "Ὓ"
+  },
+  {
+    "code": "1F5C",
+    "char": "὜"
+  },
+  {
+    "code": "1F5D",
+    "char": "Ὕ"
+  },
+  {
+    "code": "1F5E",
+    "char": "὞"
+  },
+  {
+    "code": "1F5F",
+    "char": "Ὗ"
+  },
+  {
+    "code": "1F60",
+    "char": "ὠ"
+  },
+  {
+    "code": "1F61",
+    "char": "ὡ"
+  },
+  {
+    "code": "1F62",
+    "char": "ὢ"
+  },
+  {
+    "code": "1F63",
+    "char": "ὣ"
+  },
+  {
+    "code": "1F64",
+    "char": "ὤ"
+  },
+  {
+    "code": "1F65",
+    "char": "ὥ"
+  },
+  {
+    "code": "1F66",
+    "char": "ὦ"
+  },
+  {
+    "code": "1F67",
+    "char": "ὧ"
+  },
+  {
+    "code": "1F68",
+    "char": "Ὠ"
+  },
+  {
+    "code": "1F69",
+    "char": "Ὡ"
+  },
+  {
+    "code": "1F6A",
+    "char": "Ὢ"
+  },
+  {
+    "code": "1F6B",
+    "char": "Ὣ"
+  },
+  {
+    "code": "1F6C",
+    "char": "Ὤ"
+  },
+  {
+    "code": "1F6D",
+    "char": "Ὥ"
+  },
+  {
+    "code": "1F6E",
+    "char": "Ὦ"
+  },
+  {
+    "code": "1F6F",
+    "char": "Ὧ"
+  },
+  {
+    "code": "1F70",
+    "char": "ὰ"
+  },
+  {
+    "code": "1F71",
+    "char": "ά"
+  },
+  {
+    "code": "1F72",
+    "char": "ὲ"
+  },
+  {
+    "code": "1F73",
+    "char": "έ"
+  },
+  {
+    "code": "1F74",
+    "char": "ὴ"
+  },
+  {
+    "code": "1F75",
+    "char": "ή"
+  },
+  {
+    "code": "1F76",
+    "char": "ὶ"
+  },
+  {
+    "code": "1F77",
+    "char": "ί"
+  },
+  {
+    "code": "1F78",
+    "char": "ὸ"
+  },
+  {
+    "code": "1F79",
+    "char": "ό"
+  },
+  {
+    "code": "1F7A",
+    "char": "ὺ"
+  },
+  {
+    "code": "1F7B",
+    "char": "ύ"
+  },
+  {
+    "code": "1F7C",
+    "char": "ὼ"
+  },
+  {
+    "code": "1F7D",
+    "char": "ώ"
+  },
+  {
+    "code": "1F7E",
+    "char": "὾"
+  },
+  {
+    "code": "1F7F",
+    "char": "὿"
+  },
+  {
+    "code": "1F80",
+    "char": "ᾀ"
+  },
+  {
+    "code": "1F81",
+    "char": "ᾁ"
+  },
+  {
+    "code": "1F82",
+    "char": "ᾂ"
+  },
+  {
+    "code": "1F83",
+    "char": "ᾃ"
+  },
+  {
+    "code": "1F84",
+    "char": "ᾄ"
+  },
+  {
+    "code": "1F85",
+    "char": "ᾅ"
+  },
+  {
+    "code": "1F86",
+    "char": "ᾆ"
+  },
+  {
+    "code": "1F87",
+    "char": "ᾇ"
+  },
+  {
+    "code": "1F88",
+    "char": "ᾈ"
+  },
+  {
+    "code": "1F89",
+    "char": "ᾉ"
+  },
+  {
+    "code": "1F8A",
+    "char": "ᾊ"
+  },
+  {
+    "code": "1F8B",
+    "char": "ᾋ"
+  },
+  {
+    "code": "1F8C",
+    "char": "ᾌ"
+  },
+  {
+    "code": "1F8D",
+    "char": "ᾍ"
+  },
+  {
+    "code": "1F8E",
+    "char": "ᾎ"
+  },
+  {
+    "code": "1F8F",
+    "char": "ᾏ"
+  },
+  {
+    "code": "1F90",
+    "char": "ᾐ"
+  },
+  {
+    "code": "1F91",
+    "char": "ᾑ"
+  },
+  {
+    "code": "1F92",
+    "char": "ᾒ"
+  },
+  {
+    "code": "1F93",
+    "char": "ᾓ"
+  },
+  {
+    "code": "1F94",
+    "char": "ᾔ"
+  },
+  {
+    "code": "1F95",
+    "char": "ᾕ"
+  },
+  {
+    "code": "1F96",
+    "char": "ᾖ"
+  },
+  {
+    "code": "1F97",
+    "char": "ᾗ"
+  },
+  {
+    "code": "1F98",
+    "char": "ᾘ"
+  },
+  {
+    "code": "1F99",
+    "char": "ᾙ"
+  },
+  {
+    "code": "1F9A",
+    "char": "ᾚ"
+  },
+  {
+    "code": "1F9B",
+    "char": "ᾛ"
+  },
+  {
+    "code": "1F9C",
+    "char": "ᾜ"
+  },
+  {
+    "code": "1F9D",
+    "char": "ᾝ"
+  },
+  {
+    "code": "1F9E",
+    "char": "ᾞ"
+  },
+  {
+    "code": "1F9F",
+    "char": "ᾟ"
+  },
+  {
+    "code": "1FA0",
+    "char": "ᾠ"
+  },
+  {
+    "code": "1FA1",
+    "char": "ᾡ"
+  },
+  {
+    "code": "1FA2",
+    "char": "ᾢ"
+  },
+  {
+    "code": "1FA3",
+    "char": "ᾣ"
+  },
+  {
+    "code": "1FA4",
+    "char": "ᾤ"
+  },
+  {
+    "code": "1FA5",
+    "char": "ᾥ"
+  },
+  {
+    "code": "1FA6",
+    "char": "ᾦ"
+  },
+  {
+    "code": "1FA7",
+    "char": "ᾧ"
+  },
+  {
+    "code": "1FA8",
+    "char": "ᾨ"
+  },
+  {
+    "code": "1FA9",
+    "char": "ᾩ"
+  },
+  {
+    "code": "1FAA",
+    "char": "ᾪ"
+  },
+  {
+    "code": "1FAB",
+    "char": "ᾫ"
+  },
+  {
+    "code": "1FAC",
+    "char": "ᾬ"
+  },
+  {
+    "code": "1FAD",
+    "char": "ᾭ"
+  },
+  {
+    "code": "1FAE",
+    "char": "ᾮ"
+  },
+  {
+    "code": "1FAF",
+    "char": "ᾯ"
+  },
+  {
+    "code": "1FB0",
+    "char": "ᾰ"
+  },
+  {
+    "code": "1FB1",
+    "char": "ᾱ"
+  },
+  {
+    "code": "1FB2",
+    "char": "ᾲ"
+  },
+  {
+    "code": "1FB3",
+    "char": "ᾳ"
+  },
+  {
+    "code": "1FB4",
+    "char": "ᾴ"
+  },
+  {
+    "code": "1FB5",
+    "char": "᾵"
+  },
+  {
+    "code": "1FB6",
+    "char": "ᾶ"
+  },
+  {
+    "code": "1FB7",
+    "char": "ᾷ"
+  },
+  {
+    "code": "1FB8",
+    "char": "Ᾰ"
+  },
+  {
+    "code": "1FB9",
+    "char": "Ᾱ"
+  },
+  {
+    "code": "1FBA",
+    "char": "Ὰ"
+  },
+  {
+    "code": "1FBB",
+    "char": "Ά"
+  },
+  {
+    "code": "1FBC",
+    "char": "ᾼ"
+  },
+  {
+    "code": "1FBD",
+    "char": "᾽"
+  },
+  {
+    "code": "1FBE",
+    "char": "ι"
+  },
+  {
+    "code": "1FBF",
+    "char": "᾿"
+  },
+  {
+    "code": "1FC0",
+    "char": "῀"
+  },
+  {
+    "code": "1FC1",
+    "char": "῁"
+  },
+  {
+    "code": "1FC2",
+    "char": "ῂ"
+  },
+  {
+    "code": "1FC3",
+    "char": "ῃ"
+  },
+  {
+    "code": "1FC4",
+    "char": "ῄ"
+  },
+  {
+    "code": "1FC5",
+    "char": "῅"
+  },
+  {
+    "code": "1FC6",
+    "char": "ῆ"
+  },
+  {
+    "code": "1FC7",
+    "char": "ῇ"
+  },
+  {
+    "code": "1FC8",
+    "char": "Ὲ"
+  },
+  {
+    "code": "1FC9",
+    "char": "Έ"
+  },
+  {
+    "code": "1FCA",
+    "char": "Ὴ"
+  },
+  {
+    "code": "1FCB",
+    "char": "Ή"
+  },
+  {
+    "code": "1FCC",
+    "char": "ῌ"
+  },
+  {
+    "code": "1FCD",
+    "char": "῍"
+  },
+  {
+    "code": "1FCE",
+    "char": "῎"
+  },
+  {
+    "code": "1FCF",
+    "char": "῏"
+  },
+  {
+    "code": "1FD0",
+    "char": "ῐ"
+  },
+  {
+    "code": "1FD1",
+    "char": "ῑ"
+  },
+  {
+    "code": "1FD2",
+    "char": "ῒ"
+  },
+  {
+    "code": "1FD3",
+    "char": "ΐ"
+  },
+  {
+    "code": "1FD4",
+    "char": "῔"
+  },
+  {
+    "code": "1FD5",
+    "char": "῕"
+  },
+  {
+    "code": "1FD6",
+    "char": "ῖ"
+  },
+  {
+    "code": "1FD7",
+    "char": "ῗ"
+  },
+  {
+    "code": "1FD8",
+    "char": "Ῐ"
+  },
+  {
+    "code": "1FD9",
+    "char": "Ῑ"
+  },
+  {
+    "code": "1FDA",
+    "char": "Ὶ"
+  },
+  {
+    "code": "1FDB",
+    "char": "Ί"
+  },
+  {
+    "code": "1FDC",
+    "char": "῜"
+  },
+  {
+    "code": "1FDD",
+    "char": "῝"
+  },
+  {
+    "code": "1FDE",
+    "char": "῞"
+  },
+  {
+    "code": "1FDF",
+    "char": "῟"
+  },
+  {
+    "code": "1FE0",
+    "char": "ῠ"
+  },
+  {
+    "code": "1FE1",
+    "char": "ῡ"
+  },
+  {
+    "code": "1FE2",
+    "char": "ῢ"
+  },
+  {
+    "code": "1FE3",
+    "char": "ΰ"
+  },
+  {
+    "code": "1FE4",
+    "char": "ῤ"
+  },
+  {
+    "code": "1FE5",
+    "char": "ῥ"
+  },
+  {
+    "code": "1FE6",
+    "char": "ῦ"
+  },
+  {
+    "code": "1FE7",
+    "char": "ῧ"
+  },
+  {
+    "code": "1FE8",
+    "char": "Ῠ"
+  },
+  {
+    "code": "1FE9",
+    "char": "Ῡ"
+  },
+  {
+    "code": "1FEA",
+    "char": "Ὺ"
+  },
+  {
+    "code": "1FEB",
+    "char": "Ύ"
+  },
+  {
+    "code": "1FEC",
+    "char": "Ῥ"
+  },
+  {
+    "code": "1FED",
+    "char": "῭"
+  },
+  {
+    "code": "1FEE",
+    "char": "΅"
+  },
+  {
+    "code": "1FEF",
+    "char": "`"
+  },
+  {
+    "code": "1FF0",
+    "char": "῰"
+  },
+  {
+    "code": "1FF1",
+    "char": "῱"
+  },
+  {
+    "code": "1FF2",
+    "char": "ῲ"
+  },
+  {
+    "code": "1FF3",
+    "char": "ῳ"
+  },
+  {
+    "code": "1FF4",
+    "char": "ῴ"
+  },
+  {
+    "code": "1FF5",
+    "char": "῵"
+  },
+  {
+    "code": "1FF6",
+    "char": "ῶ"
+  },
+  {
+    "code": "1FF7",
+    "char": "ῷ"
+  },
+  {
+    "code": "1FF8",
+    "char": "Ὸ"
+  },
+  {
+    "code": "1FF9",
+    "char": "Ό"
+  },
+  {
+    "code": "1FFA",
+    "char": "Ὼ"
+  },
+  {
+    "code": "1FFB",
+    "char": "Ώ"
+  },
+  {
+    "code": "1FFC",
+    "char": "ῼ"
+  },
+  {
+    "code": "1FFD",
+    "char": "´"
+  },
+  {
+    "code": "1FFE",
+    "char": "῾"
+  },
+  {
+    "code": "1FFF",
+    "char": "῿"
+  }
+]
